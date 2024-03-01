@@ -50,5 +50,8 @@ int main()
    else{
     printf("%c is not invalid" ,operator);
    }
+return 0;
+}
+
 
 
